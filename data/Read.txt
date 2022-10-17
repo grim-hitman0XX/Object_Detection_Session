@@ -1,0 +1,1 @@
+directory containing the class names of the objects that are present in coco and voco dataset
